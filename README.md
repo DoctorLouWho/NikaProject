@@ -1,4 +1,4 @@
-# AI Encryption Project
+# AI Decryption Project
 
 ## Project Description
 The aim of this project is to enhance security when modifying encrypted data. Using homomorphic encryption and neural networks, our goal is to make an app that takes in data from the user, encrypts it, and then modifies the encrypted data without decryption. The user then can access the changed data.
